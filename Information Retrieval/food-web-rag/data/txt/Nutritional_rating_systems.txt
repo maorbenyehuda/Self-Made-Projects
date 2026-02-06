@@ -1,0 +1,75 @@
+Nutritional rating systems are used to communicate the nutritional value of food in a more-simplified manner, with a ranking (or rating), than nutrition facts labels. A system may be targeted at a specific audience. Rating systems have been developed by governments, non-profit organizations, private institutions, and companies. Common methods include point systems to rank (or rate) foods based on general nutritional value or ratings for specific food attributes, such as cholesterol content. Graphics and symbols may be used to communicate the nutritional values to the target audience.
+
+
+Types
+
+
+Glycemic index
+Glycemic index is a ranking of how quickly food is metabolized into glucose when digested. It compares available carbohydrates gram-for-gram in foods to provide a numerical, evidence-based index of postprandial (post-meal) blood sugar level. The concept was introduced in 1981. The glycemic load of food is a number which estimates how much a food will raise a person's blood glucose level.
+
+
+Guiding Stars
+Guiding Stars is a patented food-rating system which rates food based on nutrient density with a scientific algorithm. Foods are credited with vitamins, minerals, dietary fiber, whole grains and Omega-3 fatty acids, and discredited for saturated fat, trans fats, and added sodium (salt) and sugar.
+Rated foods are tagged with one, two or three stars, with three stars the best ranking. The program began at Hannaford Supermarkets in 2006, and is found in over 1,900 supermarkets in Canada and the US. Guiding Stars has expanded into public schools, colleges and hospitals.
+The evidence-based, proprietary algorithm is based on the dietary guidelines and recommendations of regulatory and health organizations, including the US Food and Drug Administration and Department of Agriculture and the World Health Organization. The algorithm was developed by a scientific advisory panel composed of experts in nutrition and health from Dartmouth College, Harvard University, Tufts University, the University of North Carolina, and other colleges.
+
+
+Health Star Rating System
+
+The Health Star Rating System (HSR) is an Australian and New Zealand Government initiative that assigns health ratings to packaged foods and beverages. Ratings scale by half star increments between half a star up to five stars, with the higher the rating, the healthier the product. A calculator uses nutritional information such as total sugar, sodium, energy and other variants to obtain a rating for the product. Points are added for "healthy" nutrients such as fibres, proteins and vegetable matter whilst points are deducted for "unhealthy" nutrients that have been scientifically linked to chronic health disease, such as fats and sugars.
+
+
+Nutri-Score
+
+Nutri-Score is a nutrition label guide recommended by the European Commission and World Health Organization. It is a 5-color nutrition label selected by the French government in March 2017 for display on food products to facilitate consumer understanding of nutrient composition. It relies on the computation of a nutrient profiling system derived from the United Kingdom Food Standards Agency score.
+A Nutri-Score for a particular food item is given one of five color-coded letters, with 'A' (enlarged letter, dark green) as a score indicating excellent nutrient composition, and 'E' (dark orange) as a low-rated, nutrient-poor score. The calculation of the score involves seven different parameters of nutrient content per 100 g of food typically displayed on food packages. High content of fruits and vegetables, dietary fiber, and protein promote a higher score, while high content of calories, sugar, saturated fat, and sodium promote a detrimental score.
+
+
+NutrInform
+NutrInform is an Italian alternative to Nutri-Score, backed by the country's Ministry of Agricultural, Food and Forestry Policies.
+
+
+Nutripoints
+Nutripoints is a food-rating system which places foods on a numerical scale based on their overall nutritional value. The method is based on an analysis of 26 positive factors (such as vitamins, minerals, protein and fiber) and negative factors (such as cholesterol, saturated fat, sugar and sodium) relative to calories. The Nutripoint score of the food is the result. The higher the value, the more nutrition per calorie (nutrient-dense) and the fewest negative factors exist in the food.
+Nutripoints was developed by Doctor of Public Health Roy E. Vartabedian during the 1980s and was released in 1990 with his book, Nutripoints, which was published in thirteen countries in ten languages. The food-rating system is part of a program to help people measure, balance, and upgrade their diet for improvement in well-being. The system rates over 3,600 foods, from apples and oranges to fast foods and brand-name products.
+
+
+Points Food System
+WeightWatchers developed the Points Food System for use with its Flex Plan. The system's primary objective is to maintain a healthy weight and to track weight loss or gain over time. It is designed to allow users to eat any food, tracking the number of points for each food consumed.
+Members try to keep to their points target for a given time within a given range, which is personalized based on the member's height, weight and other factors (such as gender). A weekly points allowance is established to provide for special occasions and occasional overindulgences.
+
+
+Naturally Nutrient Rich
+Developed by Adam Drewnowski of the University of Washington, the Naturally Nutrient Rich system is based on mean-percentage Daily Values for 14 nutrients in food with 2,000 calories. It proposes to assign nutrient-density values to foods within and across food groups. The score allows consumers to identify and select nutrient-dense foods, permitting flexibility in discretionary calories  consumed.
+
+
+Traffic light rating system
+
+
+Past systems
+
+
+NuVal
+The overall nutritional quality index was a nutritional-rating system developed at the Yale-Griffin Prevention Research Center. It assigned foods a score between 1 and 100 which reflected overall nutrition relative to calories consumed. Marketed as NuVal, it was widely adopted in United States grocery stores before it was discontinued in 2017 amid accusations of conflicts of interest and for its refusal to publish the scoring algorithm. Scoring inconsistencies occurred, in which processed foods scored higher than canned fruits and vegetables.
+
+
+Smart Choices Program
+Launched late in 2009, the Smart Choices Program (SCP) was a rating system developed by a coalition of companies from the food industry. The criteria for rating food products used 18 different attributes. The system had varying levels of acceptability based on 16 types of food which allowed for wide discretion in the selection of foods to include in the program. The program was discontinued in October 2009 after sharp criticism for including products such as Froot Loops, Lucky Charms, and Frosted Flakes as Smart Choices.
+On August 19, 2009, the FDA wrote a letter to SCP manager saying: "FDA and FSIS would be concerned if any FOP labeling systems used criteria that were not stringent enough to protect consumers against misleading claims, were inconsistent with the Dietary Guidelines for Americans, or had the effect of encouraging consumers to choose highly processed foods and refined grains instead of fruits, vegetables, and whole grains." SCP was suspended in 2009 after the FDA's announcement that they will be addressing both on front-of- package and on-shelf systems. SCP Chair Mike Hughes said: "It is more appropriate to postpone active operations and channel our information and learning to the agency to support their initiative."
+
+
+See also
+
+Eating disorder
+5 A Day
+Healthy eating pyramid
+List of diets
+Insulin index
+Satiety value
+
+
+References
+
+
+External links
+2020 Changes to the Nutrition Facts Label in the United States, US Food and Drug Administration, 30 August 2019

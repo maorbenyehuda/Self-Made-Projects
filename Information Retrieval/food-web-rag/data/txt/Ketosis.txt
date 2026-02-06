@@ -1,0 +1,101 @@
+Ketosis is a metabolic state characterized by elevated levels of ketone bodies in the blood or urine. Physiological ketosis is a normal response to low glucose availability. In physiological ketosis, ketones in the blood are elevated above baseline levels, but the body's acid–base homeostasis is maintained. This contrasts with ketoacidosis, an uncontrolled production of ketones that occurs in pathologic states and causes a metabolic acidosis, which is a medical emergency. Ketoacidosis is most commonly the result of complete insulin deficiency in type 1 diabetes or late-stage type 2 diabetes. Ketone levels can be measured in blood, urine or breath and are generally between 0.5 and 3.0 millimolar (mM) in physiological ketosis, while ketoacidosis may cause blood concentrations greater than 10 mM.
+Trace levels of ketones are always present in the blood and increase when blood glucose reserves are low and the liver shifts from primarily metabolizing carbohydrates to metabolizing fatty acids. This occurs during states of increased fatty acid oxidation such as fasting, carbohydrate restriction, or prolonged exercise. When the liver rapidly metabolizes fatty acids into acetyl-CoA, some acetyl-CoA molecules can then be converted into ketone bodies: pyruvate, acetoacetate, beta-hydroxybutyrate, and acetone. These ketone bodies can function as an energy source as well as signalling molecules. The liver itself cannot utilize these molecules for energy, so the ketone bodies are released into the blood for use by peripheral tissues including the brain.
+When ketosis is induced by carbohydrate restriction, it is sometimes called nutritional ketosis.  This may be done intentionally, as a low-carbohydrate diet for weight loss or lifestyle reasons.  It may also be done medically, such as the ketogenic diet for refractory epilepsy in children or for treating type 2 diabetes.
+
+
+Definitions
+Normal serum levels of ketone bodies are less than 0.5 mM. Hyperketonemia is conventionally defined as levels in excess of 1 mM.
+
+
+Physiological ketosis
+Physiological ketosis is the non-pathological (normal functioning) elevation of ketone bodies that can result from any state of increased fatty acid oxidation including fasting, prolonged exercise, or very low-carbohydrate diets such as the medical ketogenic diet or the lifestyle "keto" diet. In physiological ketosis, serum ketone levels generally remain below 3 mM. 
+
+
+Ketoacidosis
+Ketoacidosis is a pathological state of uncontrolled production of ketones that results in a metabolic acidosis, with serum ketone levels typically in excess of 3 mM. Ketoacidosis is most commonly caused by a deficiency of insulin in type 1 diabetes or late stage type 2 diabetes but can also be the result of chronic heavy alcohol use, salicylate poisoning, or isopropyl alcohol ingestion. Ketoacidosis causes significant metabolic derangements and is a life-threatening medical emergency. Ketoacidosis is distinct from physiological ketosis as it requires failure of the normal regulation of ketone body production.
+
+
+Causes
+Elevated blood ketone levels are most often caused by accelerated ketone production but may also be caused by consumption of exogenous ketones or precursors.
+When glycogen and blood glucose reserves are low, a metabolic shift occurs in order to save glucose for the brain which is unable to use fatty acids for energy. This shift involves increasing fatty acid oxidation and production of ketones in the liver as an alternate energy source for the brain as well as the skeletal muscles, heart, and kidney. Low levels of ketones are always present in the blood and increase under circumstances of low glucose availability. For example, after an overnight fast, 2–6% of energy comes from ketones and this increases to 30–40% after a 3-day fast.
+The amount of carbohydrate restriction required to induce a state of ketosis is variable and depends on activity level, insulin sensitivity, genetics, age and other factors, but ketosis will usually occur when consuming less than 50 grams of carbohydrates per day for at least three days.
+Neonates, pregnant women and lactating women are populations that develop physiological ketosis especially rapidly in response to energetic challenges such as fasting or illness. This can progress to ketoacidosis in the setting of illness, although it occurs rarely. Propensity for ketone production in neonates is caused by their high-fat breast milk diet, disproportionately large central nervous system and limited liver glycogen.
+
+
+Biochemistry
+The precursors of ketone bodies include fatty acids from adipose tissue or the diet and ketogenic amino acids. The formation of ketone bodies occurs via ketogenesis in the mitochondrial matrix of liver cells.
+Fatty acids can be released from adipose tissue by adipokine signaling of high glucagon and epinephrine levels and low insulin levels. High glucagon and low insulin correspond to times of low glucose availability such as fasting. Fatty acids bound to coenzyme A allow penetration into mitochondria. Once inside the mitochondrion, the bound fatty acids are used as fuel in cells predominantly through beta oxidation, which cleaves two carbons from the acyl-CoA molecule in every cycle to form acetyl-CoA. Acetyl-CoA enters the citric acid cycle, where it undergoes an aldol condensation with oxaloacetate to form citric acid; citric acid then enters the tricarboxylic acid cycle (TCA), which harvests a very high energy yield per carbon in the original fatty acid.
+
+Acetyl-CoA can be metabolized through the TCA cycle in any cell, but it can also undergo ketogenesis in the mitochondria of liver cells. When glucose availability is low, oxaloacetate is diverted away from the TCA cycle and is instead used to produce glucose via gluconeogenesis. This utilization of oxaloacetate in gluconeogenesis can make it unavailable to condense with acetyl-CoA, preventing entrance into the TCA cycle. In this scenario, energy can be harvested from acetyl-CoA through ketone production.
+In ketogenesis, two acetyl-CoA molecules condense to form acetoacetyl-CoA via thiolase. Acetoacetyl-CoA briefly combines with another acetyl-CoA via HMG-CoA synthase to form hydroxy-β-methylglutaryl-CoA. Hydroxy-β-methylglutaryl-CoA form the ketone body acetoacetate via HMG-CoA lyase. Acetoacetate can then reversibly convert to another ketone body—D-β-hydroxybutyrate—via D-β-hydroxybutyrate dehydrogenase. Alternatively, acetoacetate can spontaneously degrade to a third ketone body (acetone) and carbon dioxide, which generates much greater concentrations of acetoacetate and D-β-hydroxybutyrate. The resulting ketone bodies cannot be used for energy by the liver so are exported from the liver to supply energy to the brain and peripheral tissues.
+In addition to fatty acids, deaminated ketogenic amino acids can also be converted into intermediates in the citric acid cycle and produce ketone bodies.
+
+
+Measurement
+Ketone levels can be measured by testing urine, blood or breath. There are limitations in directly comparing these methods as they measure different ketone bodies.
+
+
+Urine testing
+
+Urine testing is the most common method of testing for ketones. Urine test strips utilize a nitroprusside reaction with acetoacetate to give a semi-quantitative measure based on color change of the strip. Although beta-hydroxybutyrate is the predominant circulating ketone, urine test strips only measure acetoacetate. Urinary ketones often correlate poorly with serum levels because of variability in excretion of ketones by the kidney, influence of hydration status, and renal function.
+
+
+Serum testing
+Finger-stick ketone meters allow instant testing of beta-hydroxybutyrate levels in the blood, similar to glucometers. Beta-hydroxybutrate levels in blood can also be measured in a laboratory.
+
+
+Medical uses
+
+
+Epilepsy
+Ketosis induced by a ketogenic diet is a long-accepted treatment for refractory epilepsy.
+
+
+Obesity and metabolic syndrome
+Ketosis can improve markers of metabolic syndrome through reduction in serum triglycerides, elevation in high-density lipoprotein (HDL) as well as increased size and volume of low-density lipoprotein (LDL) particles. These changes are consistent with an improved lipid profile despite potential increases in total cholesterol level.
+
+
+Safety
+The safety of ketosis from low-carbohydrate diets is often called into question by clinicians, researchers and the media. A common safety concern stems from the misunderstanding of the difference between physiological ketosis and pathologic ketoacidosis. There is also continued debate whether chronic ketosis is a healthy state or a stressor to be avoided. Some argue that humans evolved to avoid ketosis and should not be in ketosis long-term. The counter-argument is that there is no physiological requirement for dietary carbohydrates, as adequate energy can be made via gluconeogenesis and ketogenesis indefinitely. Alternatively, the switching between a ketotic and fed state has been proposed to have beneficial effects on metabolic and neurologic health. The effects of sustaining ketosis for up to two years are known from studies of people following a strict ketogenic diet for epilepsy or type 2 diabetes; these include short-term adverse effects leading to potential long-term ones. However, literature on longer term effects of intermittent ketosis is lacking.
+
+
+Medication considerations
+Some medications require attention when in a state of ketosis, especially several classes of diabetes medication. SGLT2 inhibitor medications have been associated with cases of euglycemic ketoacidosis – a rare state of high ketones causing a metabolic acidosis with normal blood glucose levels. This usually occurs with missed insulin doses, illness, dehydration or adherence to a low-carbohydrate diet while taking the medication. Additionally, medications used to directly lower blood glucose including insulin and sulfonylureas may cause hypoglycemia if they are not titrated prior to starting a diet that results in ketosis.
+
+
+Adverse effects
+There may be side effects when changing over from glucose metabolism to fat metabolism. These may include headache, fatigue, dizziness, insomnia, difficulty in exercise tolerance, constipation, and nausea, especially in the first days and weeks after starting a ketogenic diet. Breath may develop a sweet, fruity flavor via production of acetone that is exhaled because of its high volatility.
+Most adverse effects of long-term ketosis are reported among children because of its longstanding acceptance as a treatment for pediatric epilepsy. These include compromised bone health, stunted growth, hyperlipidemia, and kidney stones.
+
+
+Contraindications
+Ketosis induced by a ketogenic diet should not be pursued by people with pancreatitis because of the high dietary fat content. Ketosis is also contraindicated in pyruvate carboxylase deficiency, porphyria, and other rare genetic disorders of fat metabolism.
+
+
+Veterinary medicine
+
+
+Cattle
+In dairy cattle, ketosis commonly occurs during the first weeks after giving birth to a calf and is sometimes referred to as acetonemia. This is most likely the result of an energy deficit when intake is inadequate to compensate for the increased metabolic demand of lactating. The elevated β-hydroxybutyrate concentrations can depress gluconeogenesis, feed intake and the immune system, as well as have an impact on milk composition. Point of care diagnostic tests can be useful to screen for ketosis in cattle.
+
+
+Sheep
+In sheep, ketosis, evidenced by hyperketonemia with beta-hydroxybutyrate in blood over 0.7 mmol/L, is referred to as pregnancy toxemia. This may develop in late pregnancy in ewes bearing multiple fetuses and is associated with the considerable metabolic demands of the pregnancy. In ruminants, because most glucose in the digestive tract is metabolized by rumen organisms, glucose must be supplied by gluconeogenesis. Pregnancy toxemia is most likely to occur in late pregnancy due to metabolic demand from rapid fetal growth and may be triggered by insufficient feed energy intake due to weather conditions, stress or other causes. Prompt recovery may occur with natural parturition, Caesarean section or induced abortion. Prevention through appropriate feeding and other management is more effective than treatment of advanced stages of pregnancy toxemia.
+
+
+See also
+
+
+References
+
+
+Further reading
+
+
+External links
+
+Diabetic Ketoacidosis at eMedicine
+NHS Direct: Ketosis Archived 2012-04-24 at the Wayback Machine
+The Merck Manual —
+Diabetic Ketoacidosis
+Alcoholic Ketoacidosis

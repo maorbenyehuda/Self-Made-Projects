@@ -1,0 +1,141 @@
+An ultra-processed food (UPF) is a grouping of processed food characterized by relatively involved methods of production. There is no simple definition of UPF, but they are generally understood to be an industrial creation derived from natural food or synthesized from other organic compounds. The resulting products are designed to be highly convenient and hyperpalatable, often through food additives such as preservatives, colourings, and flavourings. UPFs have often undergone processes such as moulding/extruding, hydrogenation, or frying.
+Ultra-processed foods first became ubiquitous in the 1980s, though the term "ultra-processed food" gained prominence from a 2009 paper by Brazilian researchers as part of the Nova classification system. In the Nova system, UPFs include most bread and other mass-produced baked goods, frozen pizza, instant noodles, flavored yogurt, fruit and milk drinks, diet products, baby food, and most of what is considered junk food. The Nova definition considers ingredients, processing, and how products are marketed; nutritional content is not evaluated. As of 2024, research into the effects of UPFs is rapidly evolving.
+Since the 1990s, UPF sales have consistently increased or remained high in most countries. While national data is limited, as of 2023, the United States and the United Kingdom lead the consumption rankings, with 58% and 57% of daily calories, respectively. Consumption varies widely across countries, ranging from 25% to 35%. Chile, France, Mexico, and Spain fall within this range, while Colombia, Italy, and Taiwan have consumption levels of 20% or less.
+Epidemiological data suggest that consumption of ultra-processed foods is associated with non-communicable diseases and obesity. A 2024 meta-analysis published in The BMJ identified 32 studies that associated UPF with negative health outcomes, though it also noted a possible heterogeneity among sub-groups of UPF. The specific mechanism of the effects was not clear. 
+Some authors have criticised the concept of "ultra-processed foods" as poorly defined, and the Nova classification system as too focused on the type rather than the amount of food consumed. Other authors, mostly in the field of nutrition, have been critical of the lack of attributed mechanisms for the health effects, focusing on how the current research evidence does not provide specific explanations for how ultra-processed food affects body systems.
+
+
+Definitions
+Concerns about food processing have existed since at least the Industrial Revolution. The origin of ultra-processed food is more recent: Michael Pollan's influential book The Omnivore's Dilemma (2006) referred to highly processed industrial food as 'edible food-like substances'. Carlos Augusto Monteiro cited Pollan as an influence in coining the term 'ultra-processed food' in a 2009 commentary. Some sources have described UPF as "predigested food".
+Monteiro's team developed the Nova classification for grouping unprocessed and processed foods beginning in 2010, whose definition of ultra-processing became the most widely accepted, refined through successive publications. The identification of ultra-processed foods, as well as the category itself, is a subject of debate among nutrition and public health scientists, and other definitions have been proposed.
+A survey of systems for classifying levels of food processing in 2021 identified four 'defining themes':
+
+Extent of change (from natural state)
+Nature of change (properties, ingredients added)
+Place of processing (where/by whom)
+Purpose of processing (why, essential/cosmetic)
+
+
+Monteiro's 2009 commentary
+Carlos Monteiro, working with a team of researchers at the University of São Paulo, first published the concept of ultra-processed foods:
+
+Ultra-processed foods are basically confections of group 2 ingredients [substances extracted from whole foods], typically combined with sophisticated use of additives, to make them edible, palatable, and habit-forming. They have no real resemblance to group 1 foods [minimally processed foods], although they may be shaped, labelled and marketed so as to seem wholesome and 'fresh'. Unlike the ingredients included in group 2, ultra-processed foods are typically not consumed with or as part of minimally processed foods, dishes and meals. On the contrary, they are designed to be ready-to-eat (sometimes with addition of liquid such as milk) or ready-to-heat, and are often consumed alone or in combination (such as savoury snacks with soft drinks, bread with burgers).
+
+This definition is as much social as one based on specific ingredients, which makes the understanding of ultra-processed foods highly intuitive, even among untrained consumers. A letter responding to Monteiro's 2009 commentary suggested that the definition 'lacks precision', since it lacks the measurable definitions of traditional food science. Because of this, researchers disagree whether the definition can form a valid basis for scientific investigation. Researchers have developed a quantitative definition for hyperpalatable food, but not for ultra-processed food.
+
+
+Nova classification
+
+Monteiro's team subsequently presented ultra-processed foods as a group in the Nova food classification system. The system focuses on food processing rather than foods types or nutrients. Nova categorizes foods into four groups: unprocessed or minimally processed foods, processed ingredients, processed foods, and ultra-processed foods.
+
+Nova is an open classification that refines its definitions gradually through scientific publications rather than through a central advisory board. The most recent overview of Nova defines ultra-processed food as:Industrially manufactured food products made up of several ingredients (formulations) including sugar, oils, fats and salt (generally in combination and in higher amounts than in processed foods) and food substances of no or rare culinary use (such as high-fructose corn syrup, hydrogenated oils, modified starches and protein isolates). Group 1 [un- or minimally processed] foods are absent or represent a small proportion of the ingredients in the formulation. Processes enabling the manufacture of ultra-processed foods include industrial techniques such as extrusion, moulding and pre-frying; application of additives including those whose function is to make the final product palatable or hyperpalatable such as flavours, colourants, non-sugar sweeteners and emulsifiers; and sophisticated packaging, usually with synthetic materials. Processes and ingredients here are designed to create highly profitable (low-cost ingredients, long shelf-life, emphatic branding), convenient (ready-to-(h)eat or to drink), tasteful alternatives to all other Nova food groups and to freshly prepared dishes and meals. Ultra-processed foods are further defined as measurably distinguishable from processed foods by ingredients "of no culinary use (varieties of sugars such as fructose, high-fructose corn syrup, 'fruit juice concentrates', invert sugar, maltodextrin, dextrose and lactose; modified starches; modified oils such as hydrogenated or interesterified oils; and protein sources such as hydrolysed proteins, soya protein isolate, gluten, casein, whey protein and 'mechanically separated meat') or of additives with cosmetic functions (flavours, flavour enhancers, colours, emulsifiers, emulsifying salts, sweeteners, thickeners and anti-foaming, bulking, carbonating, foaming, gelling and glazing agents) in their list of ingredients."
+The Nova definition of ultra-processed food does not comment on the nutritional content of food and is not intended to be used for nutrient profiling.
+
+
+International Agency for Research on Cancer (IARC)
+The International Agency for Research on Cancer, an intergovernmental agency that forms part of the World Health Organization, classifies foods by their degree of processing. This system breaks food into 'non-processed', 'moderately processed', and 'highly processed' food. The system does not take into account the nature or purpose of changes.
+
+
+Siga Index
+The Siga Index is a classification system for processed foods developed in France. It is based on the degree of processing and the nutritional quality of foods, using a holistic and reductionist approach.
+The Siga Index assigns a score from 1 to 100 to each food product, where higher scores indicate higher nutritional quality and lower processing. The Siga Index also defines ultra-processed foods (UPFs) as those with a score below 40, which are considered to have low nutritional value and high levels of additives, preservatives, and artificial ingredients.
+
+
+International Food Information Council (IFIC)
+The International Food Information Council defines five levels of food processing: minimally processed, foods processed for preservation, mixtures of combined ingredients, ready-to-eat processed foods, and prepared foods/meals.
+
+
+NUPENS
+The Center for Epidemiological Research in Nutrition and Health at the University of São Paulo has proposed a variant on the Nova classification consisting of: unprocessed, minimally, or moderately processed foods; processed foods; and ultra-processed foods.
+
+
+Economics
+The high amount of processing lends ultra-processed food to be subject to different economic constraints compared to natural food.
+
+
+Profitability
+
+Ultra-processed foods often use less expensive ingredients, allowing ultra-processed food to be priced lower. Furthermore, ultra-processed foods are more consistently available in stores. Global production networks of multinational food companies creating ultra-processed food are supported by high brand awareness, aggressive globalization tactics, and the purchasing of local companies selling similar products.
+Companies selling ultra-processed food frequently target youth consumers and middle income countries. Many of these companies use big data to choose which consumers to market to. Furthermore, the ultra-processed food industry uses indirect and direct lobbying in large countries to influence local food policy.
+
+
+Affordability for consumers
+
+They often have an extended shelf life, an important consideration for lower income consumers without reliable access to refrigeration. Among other reasons for the popularity of ultra-processed foods are the inexpensive cost of their main ingredients. The price of ultra-processed food fluctuated less than unprocessed food over a twelve-year period.
+
+
+Ultra-processed food brands
+The dessert Jell-O was launched in 1897. Crisco was developed as alternative to lard and introduced to the consumer market in 1911. In the following decades Spam, Velveeta, Kraft Mac & Cheese, and Oreos became household names. These brands were not recognized as ultra-processed foods. During World War II food with a long shelf life was developed primarily to secure the food supply of soldiers engaging in active combat. These food supplies included new additives such as preservatives, flavorings, and vitamins. The packaging was designed to withstand hard helicopter drops. After the war powdered cheeses, dehydrated potatoes, canned meats, and melt-resistant chocolate bars were launched as profitable convenience foods.
+
+
+Health effects
+The effect of ultra-processed foods on health has mainly been investigated using nutritional epidemiology and so far there has been no randomized controlled trial to investigate the effect of these foods on any health outcome other than weight gain. These studies have shown an overall increased risk for disease – including poor cardiometabolic and mental health, and reduced life expectancy – although studies separating different types of ultra-processed food have found adverse effects mainly for only some sub-groups such as soft drinks and animal products, with some sub-groups such as cereals showing an inverse effect.
+One possible explanation for the adverse effect on health is the presence of contaminants, certain food additives, and the high heat treatment of these foods. Another study proposed that food addiction may also be associated with consumption of ultra-processed foods. There is currently however no scientific consensus.
+The publicizing of these findings has sparked debate over the categoric demonization of ultra-processed foods, with some critics calling for a more balanced view, and others arguing that promoting UPFs could undermine public health communication about their risks.
+UPF tend to be low in fiber and high in calories, salt, added sugar and fat, which are all related to poor health outcomes when eaten excessively. Common examples include packaged snacks, soft drinks, ready meals, and processed meats.
+Ultra-processed diets promote overeating and weight gain, largely due to soft texture, high energy density and hyper-palatable nutrient combinations that alter satiety and food-reward.
+
+
+Obesity and weight gain
+Ultra-processed foods are designed to be highly palatable, typically combining high levels of sugar, fat, and salt to enhance flavor and texture. These foods often lack fiber and protein, which are essential for promoting the feeling of fullness and help regulate appetite. Additionally, the high glycemic index of many ultra-processed foods can cause rapid spikes and crashes in blood sugar levels, which further stimulates hunger and overeating.
+
+
+Cancer
+A 2023 review indicated that people who consume 10% more ultra-processed foods have an increased risk of various cancers, including colorectal, breast, and pancreatic cancer.
+
+
+Diabetes
+A 2023 meta-analysis of 415,554 participants found that each 10% increase in ultra-processed food consumption led to a 12% higher risk for type 2 diabetes.
+Some specific types of ultra-processed foods that have been associated with higher risk of type 2 diabetes include refined breads, sauces, spreads, condiments, artificially and sugar-sweetened beverages, animal-based products, and ready-to-eat mixed dishes.
+
+
+Heart and cardiovascular disease
+Ultra-processed foods often contain trans fats and high levels of saturated fats, which can raise LDL cholesterol (bad cholesterol) levels and lower HDL cholesterol (good cholesterol) levels. Elevated LDL cholesterol is a major risk factor for atherosclerosis, a condition that can lead to heart attacks, strokes, and cardiovascular disease. The high content of added sugars in many ultra-processed foods can lead to obesity, inflammation, and high blood pressure, all of which are risk factors for heart and cardiovascular disease. Ultra-processed foods often contain excessive amounts of sodium, which if consumed too often can lead to high blood pressure, a major risk factor for heart disease.
+A 2024 meta-analysis found that participants with the highest consumption of UPF had a 17% increased risk of cardiovascular disease compared to those with the lowest consumption.
+Health organizations worldwide, such as the World Health Organization and the American Heart Association, recommend reducing the intake of ultra-processed foods to lower the risk of heart disease, advocating for diets rich in fruits, vegetables, whole grains, and lean proteins to promote heart health and prevent cardiovascular disease.
+
+
+Association with all-cause mortality
+A 2025 meta-analysis found that participants with the highest consumption of UPF had a 15% increased risk of all-cause mortality compared to those with the lowest consumption, also observing a 10% higher mortality risk with each 10% increment in UPF consumption.
+
+
+Identification of ultra-processed foods
+Identifying ultra-processed foods may benefit from inspection of food labels on the packaging. The following may indicate an ultra-processed food:
+
+Long ingredient list: Foods that contain many ingredients (often more than three), especially those that could not be found in a kitchen, are likely to be ultra-processed, such as multiple preservatives, emulsifiers and shelf-life extenders.
+Claims on the packaging: Ultra-processed foods are often heavily marketed and come in packaging with nutrition claims like "low-fat," "sugar-free," or "fortified with vitamins."
+
+
+Environmental impact
+In a non-peer-reviewed "comment" article, Seferidi et al. argue that UPFs require extensive processing and packaging, resulting in higher energy consumption and waste production compared to minimally processed foods. Moreover, the globalized supply chains for the ingredients of ultra-processed foods contribute to greenhouse gas emissions. However, the "UPF" classification also includes plant-based dairy and meat substitutes, which contribute lower emissions compared to their animal-based counterparts. Plant-based UPF-containing diets are not only minimally associated with health risks, but are also linked to lower greenhouse gas emissions and water use. Moreover, studies focusing on the overall food system have consistently found that the greenhouse gas emissions from the supply chain is far outweighed by the emissions from land use and agriculture.
+Leite et al. (2022) describes an overlooked aspect of the discourse: UPFs are generally produced from a handful of high-yielding plant species. This phenomenon encourages monoculture and reduces global agrobiodiversity by displacing more diverse traditional foods.
+
+
+Regulation and policy
+Given the claimed health and environmental impacts of ultra-processed foods, there have been calls for better regulation and policy surrounding these products. These measures face significant challenges, including industry opposition and the global nature of food supply chains. Future policy efforts may require a combination of regulation, education, and incentives to promote healthier, more sustainable food choices.
+Four Latin American countries—Brazil, Uruguay, Peru, and Ecuador—have so far published national official dietary guidelines that recommend avoiding ultra-processed foods. Chile requires warning labels on some ultra-processed foods and taxes sugar-sweetened beverages. A report on obesity published by the World Bank in 2020 mentions ultra-processed foods as a potential contributor.
+In 2022, the Scientific Advisory Committee on Nutrition (SACN) reviewed scientific literature to consider whether the British government should adopt a position on ultra-processed food and recommended further research, scheduling a review on its position for June 2024.
+
+
+Criticism
+Following the publication of the Nova classification, some researchers questioned whether food processing should itself be considered a factor in nutrient intake, especially in a prominent 2017 criticism written by researchers, one of whom was funded by Nestlé and the Kerry Group. UPFs are imprecisely defined and it is unclear how any adverse effects on health may come about.
+In 2022, Carlos Monteiro and Arne Astrup argued for and against the Nova classification in a series of three articles written in the style of an Oxford debate. Monteiro's 'yes' argument states that the effects of ultra-processed food are demonstrated by representative dietary surveys and long-term cohort studies; that consuming ultra-processed food is associated with negative health outcomes; and that the associations are supported by discussions of specific mechanisms. Astrup's 'no' argument states that the Nova definition of ultra-processed foods is ambiguous and inherently leads to misclassification of foods; that evidence is lacking for effects that are not already accounted for by known factors such as nutrient composition; that existing evidence is limited to observational studies rather than being supported by randomized controlled trials; and that some ultra-processing techniques are valuable in achieving the transition to sustainable food production. The two researchers nonetheless agreed that food processing significantly affects diet quality and health outcomes; that most types of food processing are harmless or beneficial, with a minority being harmful; that some characteristics of food processing are useful for food classification systems; and that further study is required to understand the effect of food processing on human health.
+A number of studies show that although UPFs in general are associated with higher health risks, there exists a large heterogeneity among UPF subgroups. For example, although bread and cereals are classified as UPFs, a large 2023 study published in The Lancet finds them inversely associated with cancer and cardiometabolic diseases in the European population (hazard ratio 0.97). The study found that animal-based products (HR = 1.09) and artificially and sugar-sweetened beverages (HR = 1.09) are most strongly associated with diseases among UPFs. Robinson and Johnstone (2024) cite a similar study conducted in the US population. They argue that there should be a balanced approach in approaching UPFs: consumers should not be prematurely advised to avoid all UPFs, not just because of physical health concerns (UPF provide a large part of lower-income peoples' nutrition, and replacements may actually be less nutritious), but also because of social costs of the removal of UPFs (unnecessary anxiety and mistrust of science).
+
+
+See also
+
+Epidemiology of obesity
+Food marketing
+Food politics
+Satiety value
+
+
+Notes
+
+
+References
+
+
+External links
+How US Young Adults Understand and Conceptualize Ultra-Processed Foods. In: Current Developments in Nutrition Volume 8, July 2024 (Open Access)

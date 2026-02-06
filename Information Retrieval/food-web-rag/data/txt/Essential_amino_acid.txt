@@ -1,0 +1,76 @@
+An essential amino acid, or indispensable amino acid, is an amino acid that cannot be synthesized from scratch by the organism fast enough to supply its demand, and must therefore come from the diet. Of the 21 amino acids common to all life forms, the nine amino acids humans cannot synthesize are valine, isoleucine, leucine, methionine, phenylalanine, tryptophan, threonine, histidine, and lysine.
+Six other amino acids are considered conditionally essential in the human diet, meaning their synthesis can be limited under special pathophysiological conditions, such as prematurity in the infant or individuals in severe catabolic distress. These six are arginine, cysteine, glycine, glutamine, proline, and tyrosine. Six amino acids are non-essential (dispensable) in humans, meaning they can be synthesized in sufficient quantities in the body. These six are alanine, aspartic acid, asparagine, glutamic acid, serine, and selenocysteine (considered the 21st amino acid). Pyrrolysine (considered the 22nd amino acid), which is proteinogenic only in certain microorganisms, is not used by and therefore non-essential for most organisms, including humans.
+The limiting amino acid is the essential amino acid which is furthest from meeting nutritional requirements. This concept is important when determining the selection, number, and amount of foods to consume: Even when total protein and all other essential amino acids are satisfied, if the limiting amino acid is not satisfied, then the meal is considered to be nutritionally limited by that amino acid.
+
+
+Overview
+
+(*) Pyrrolysine, sometimes considered the "22nd amino acid", is not used by the human body.
+
+
+Essentiality in humans
+Of the twenty amino acids common to all life forms (not counting selenocysteine), humans cannot synthesize nine: histidine, isoleucine, leucine, lysine, methionine, phenylalanine, threonine, tryptophan and valine. Additionally, the amino acids arginine, cysteine, glutamine, glycine, proline and tyrosine are considered conditionally essential, which means that specific populations who do not synthesize it in adequate amounts, such as newborn infants and people with diseased livers who are unable to synthesize cysteine, must obtain one or more of these conditionally essential amino acids from their diet. For example, enough arginine is synthesized by the urea cycle to meet the needs of an adult but perhaps not those of a growing child. Amino acids that must be obtained from the diet are called essential amino acids. 
+Eukaryotes can synthesize some of the amino acids from other substrates. Consequently, only a subset of the amino acids used in protein synthesis are essential nutrients.
+
+
+From intermediates of the citric acid cycle and other pathways
+Nonessential amino acids are produced in the body. The pathways for the synthesis of nonessential amino acids come from basic metabolic pathways. Glutamate dehydrogenase catalyzes the reductive amination of α-ketoglutarate to glutamate. A transamination reaction takes place in the synthesis of most amino acids. At this step, the chirality of the amino acid is established. Alanine and aspartate are synthesized by the transamination of pyruvate and oxaloacetate, respectively. Glutamine is synthesized from NH4+ and glutamate, and asparagine is synthesized similarly. Proline and arginine are both derived from glutamate. Serine, formed from 3-phosphoglycerate, which comes from glycolysis, is the precursor of glycine and cysteine. Tyrosine is synthesized by the hydroxylation of phenylalanine, which is an essential amino acid.
+
+
+Recommended daily intake
+
+Estimating the daily requirement for the indispensable amino acids has proven to be difficult; these numbers have undergone considerable revision over the last 20 years. The following table lists the recommended daily amounts currently in use for essential amino acids in adult humans (unless specified otherwise), together with their standard one-letter abbreviations.
+
+The recommended daily intakes for children aged three years and older is 10% to 20% higher than adult levels and those for infants can be as much as 150% higher in the first year of life. Cysteine (or sulfur-containing amino acids), tyrosine (or aromatic amino acids), and arginine are always required by infants and growing children. Methionine and cysteine are grouped together because one of them can be synthesized from the other using the enzyme methionine S-methyltransferase and the catalyst methionine synthase. Phenylalanine and tyrosine are grouped together because tyrosine can be synthesized from phenylalanine using the enzyme phenylalanine hydroxylase.
+
+
+Amino acid requirements and the amino acid content of food
+Historically, amino acid requirements were determined by calculating the balance between dietary nitrogen intake and nitrogen excreted in the liquid and solid wastes, because proteins represent the largest nitrogen content in a body. A positive balance occurs when more nitrogen is consumed than is excreted, which indicates that some of the nitrogen is being used by the body to build proteins. A negative nitrogen balance occurs when more nitrogen is excreted than is consumed, which indicates that there is insufficient intake for the body to maintain its health. Graduate students at the University of Illinois were fed an artificial diet so that there was a slightly positive nitrogen balance. Then one amino acid was omitted and the nitrogen balance recorded. If a positive balance continued, then that amino acid was deemed not essential. If a negative balance occurred, then that amino acid was slowly restored until a slightly positive nitrogen balance stabilized and the minimum amount recorded.
+A similar method was used to determine the protein content of foods. Test subjects were fed a diet containing no protein and the nitrogen losses recorded. During the first week or more there is a rapid loss of labile proteins. Once the nitrogen losses stabilize, this baseline is determined to be the minimum required for maintenance. Then the test subjects were fed a measured amount of the food being tested. The difference between the nitrogen in that food and the nitrogen losses above baseline was the amount the body retained to rebuild proteins. The amount of nitrogen retained divided by the total nitrogen intake is called net protein utilization. The amount of nitrogen retained divided by the (nitrogen intake minus nitrogen loss above baseline) is called biological value and is usually given as a percentage.
+Modern techniques make use of ion exchange chromatography to determine the actual amino acid content of foods. The USDA used this technique in their own labs to determine the content of 7793 foods across 28 categories. The USDA published the final database in 2018 to the public.
+The limiting amino acid depends on the human requirements and there are currently two sets of human requirements from authoritative sources: one published by WHO and the other published by USDA.
+
+
+Protein quality
+
+Various attempts have been made to express the "quality" or "value" of various kinds of protein. Measures include the biological value, net protein utilization, protein efficiency ratio, protein digestibility corrected amino acid score and the complete proteins concept. These concepts are important in the livestock industry, because the relative lack of one or more of the essential amino acids in animal feeds would have a limiting effect on growth and thus on feed conversion ratio. Thus, various feedstuffs may be fed in combination to increase net protein utilization, or a supplement of an individual amino acid (methionine, lysine, threonine, or tryptophan) can be added to the feed.
+
+
+Protein per calorie
+Protein content in foods is often measured in protein per serving rather than protein per calorie. For instance, the USDA lists 6 grams of protein per large whole egg (a 50-gram serving) rather than 84 mg of protein per calorie (71 calories total). For comparison, there are 2.8 grams of protein in a serving of raw broccoli (100 grams) or 82 mg of protein per calorie (34 calories total), or the Daily Value of 47.67g of protein after eating 1,690g of raw broccoli a day at 574 cal. An egg contains 12.5g of protein per 100g, but 4 mg more protein per calorie, or the protein DV after 381g of egg, which is 545 cal. The ratio of essential amino acids (the quality of protein) is not taken into account, one would actually need to eat more than 3 kg of broccoli a day to have a healthy protein profile, and almost 6 kg to get enough calories. It is recommended that adult humans obtain between 10–35% of their 2000 calories a day as protein.
+
+
+Complete proteins in non-human animals
+Scientists had known since the early 20th century that rats could not survive on a diet whose only protein source was zein, which comes from maize (corn), but recovered if they were fed casein from cow's milk. This led William Cumming Rose to the discovery of the essential amino acid threonine. Through manipulation of rodent diets, Rose was able to show that ten amino acids are essential for rats: lysine, tryptophan, histidine, phenylalanine, leucine, isoleucine, methionine, valine, and arginine, in addition to threonine. Rose's later work showed that eight amino acids are essential for adult human beings, with histidine also being essential for infants. Longer-term studies established histidine as also essential for adult humans.
+
+
+Interchangeability
+The distinction between essential and non-essential amino acids is somewhat unclear, as some amino acids can be produced from others. The sulfur-containing amino acids, methionine and homocysteine, can be converted into each other but neither can be synthesized de novo in humans. Likewise, cysteine can be made from homocysteine but cannot be synthesized on its own. So, for convenience, sulfur-containing amino acids are sometimes considered a single pool of nutritionally equivalent amino acids as are the aromatic amino acid pair, phenylalanine and tyrosine. Likewise arginine, ornithine, and citrulline, which are interconvertible by the urea cycle, are considered a single group.
+
+
+Effects of deficiency
+
+If one of the essential amino acids is not available in the required quantities, protein synthesis will be inhibited, irrespective of the availability of the other amino acids. Protein deficiency has been shown to affect all of the body's organs and many of its systems, for example affecting brain development in infants and young children; inhibiting upkeep of the immune system, increasing risk of infection; affecting gut mucosal function and permeability, thereby reducing absorption and increasing vulnerability to systemic disease; and impacting kidney function. The physical signs of protein deficiency include edema, failure to thrive in infants and children, poor musculature, dull skin, and thin and fragile hair. Biochemical changes reflecting protein deficiency include low serum albumin and low serum transferrin.
+The amino acids that are essential in the human diet were established in a series of experiments led by William Cumming Rose. The experiments involved elemental diets to healthy male graduate students. These diets consisted of corn starch, sucrose, butterfat without protein, corn oil, inorganic salts, the known vitamins, a large brown "candy" made of liver extract flavored with peppermint oil (to supply any unknown vitamins), and mixtures of highly purified individual amino acids. The main outcome measure was nitrogen balance. Rose noted that the symptoms of nervousness, exhaustion, and dizziness were encountered to a greater or lesser extent whenever human subjects were deprived of an essential amino acid.
+Essential amino acid deficiency should be distinguished from protein-energy malnutrition, which can manifest as marasmus or kwashiorkor. Kwashiorkor was once attributed to pure protein deficiency in individuals who were consuming enough calories ("sugar baby syndrome"). However, this theory has been challenged by the finding that there is no difference in the diets of children developing marasmus as opposed to kwashiorkor. Still, for instance in Dietary Reference Intakes (DRI) maintained by the USDA, lack of one or more of the essential amino acids is described as protein-energy malnutrition.
+
+
+See also
+Essential fatty acid
+Essential genes
+List of standard amino acids
+Low-protein diet, High-protein diet
+Orthomolecular medicine
+Ketogenic amino acid
+Glucogenic amino acid
+
+
+References
+
+
+External links
+
+Amino acid content of some vegetarian foods at veganhealth.org.
+Amino Acid Profiles of Some Common Feeds at Virginia Tech.
+Molecular Expressions: The Amino Acid Collection at Florida State University. Features detailed information and crystal photographs of each amino acid.
+vProtein, an online software tool to analyze the essential amino acid profiles of single and pairs of plant based foods based on human requirements.

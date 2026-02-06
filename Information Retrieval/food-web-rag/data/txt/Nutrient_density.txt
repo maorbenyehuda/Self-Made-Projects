@@ -1,0 +1,67 @@
+Nutrient density identifies the amount of beneficial nutrients in a food product in proportion to e.g. energy content, weight or amount of perceived detrimental nutrients. Terms such as nutrient rich and  micronutrient dense refer to similar properties.
+Currently there is no universal standard for the term nutrient density, nor an agreed unit with which to measure it.
+Several different national and international standards have been developed and are in use (see Nutritional rating systems).
+
+
+Definition and usage
+According to the World Health Organization, nutrient profiling classifies and/or ranks foods by their nutritional composition in order to promote human (and/or animal) health and to prevent disease. Ranking by nutrient density is one such nutrient profiling strategy.  Ordering foods by nutrient density is a statistical method of comparing foods by the proportion of nutrients in foods. Some such comparisons can be the glycemic index and the overall nutritional quality index.
+When the density is defined in proportion to energy contents, nutrient-dense foods such as meats, fruits and vegetables are the opposite of energy-dense food (also called "empty calorie" food), such as alcohol and foods high in added sugar or processed cereals. Beyond its use to distinguish different types of food from each other, nutrient density allows comparison to be made for different examples or samples of the same kind of food. Nutrient density is correlated with soil quality and mineralization levels of the soil, although the relationship is complex and incorporates other dimensions.
+The Academy of Nutrition and Dietetics reported in 2013 that:
+
+Several indicators of nutrient quality have been summarized by the Academy.
+The Nutrient Rich Food Index has been developed by a research coalition involving food and nutrition practitioners.  This index uses nutrient profiles that have been validated against accepted measures of a healthy diet, such as the Healthy Eating Index created by the USDA.
+
+
+International standards
+The Nutrient Profiling Scoring Calculator (NPSC) in Australia and New Zealand is a calculator for determining whether health claims can be made for a food by its reference to the Nutrient Profiling Scoring Criterion (NPSC).  It is defined by the FSANZ Board, which operates under the FSANZ Act.
+The United Kingdom Ofcom nutrient profiling model provides "a single score for any given food product, based on calculating the number of points for ‘negative’ nutrients which can be offset by points for ‘positive’ nutrients."  A 2007 UK-commissioned review of nutrient profiling models commissioned by the UK Food Standards Agency identified over 40 different schemes.
+The World Health Organization reviews scientific and operational issues related to human nutrition, specifically when developing world populations are impacted.
+
+
+History
+
+
+Timeline
+The Bionutrient Institute, established in 2016 with the core staff of the Bionutrient Food Association (established by Dan Kittredge in 2010) developed a Bionutrient Meter  and have been compiling datasets to characterize a more complete metabolomic definition of Nutrient Density.
+
+
+Criticism
+The following aspects of nutrient density measures have been criticized.
+
+
+Measuring in proportion to energy content
+If nutrient density is measured in proportion to the food's energy content:
+
+By design, it premiers micronutrients over macronutrients, since most macronutrients contribute to food energy content (and thereby decrease the density measure).
+A food product with excellent micronutrient content may get a very low nutrient density, if it also has significant energy content, even if that energy is provided by healthy macronutrients like essential amino acids, unsaturated fats and slow carbohydrates.
+A food product with very low energy content may get a very high density, even if its actual micronutrient content is low.
+Focusing on low-energy food may create or trigger already existing eating disorders.
+
+
+Using a single measure for multiple nutrients
+No natural food product contains all essential nutrients and nutrient density will not tell you which ones are missing. So even a diet based on a lot of high-density products could still lack several essential nutrients.
+
+
+Choice of nutrients included in the measure
+If all essential nutrient or micronutrients are included in the measure, it will remove focus from the nutrients that are most often lacking in people's diets.
+If a selection of nutrients is made (e.g. based on how often they are lacking in people's diets), the selection will not be relevant to everyone, because some people lack completely different nutrients.
+
+
+See also
+
+
+References
+
+
+Further reading
+Freeland-Graves JH, Nitzke S (February 2013). "Position of the academy of nutrition and dietetics: total diet approach to healthy eating". J Acad Nutr Diet. 113 (2): 307–17. doi:10.1016/j.jand.2012.12.013. PMID 23351634.
+Pennington J, Kandiah J, Nicklas T, Pitman S, Stitzel K (May 2007). "Practice paper of the American dietetic association: nutrient density: meeting nutrient goals within calorie needs". J Am Diet Assoc. 107 (5): 860–9. doi:10.1016/j.jada.2007.03.020. PMID 17526129.
+Cason, K. L., Clemson University Department of Food Science and Human Nutrition. Nutrient Density (Consumer Judging—Junior/Senior). February 2005.
+Dooley, D. A. Island Scene Online. Nutrient Density: An Idea Whose Time Has Finally Come. (Hawaii Medical Service Association), July 27, 2005. http://www.islandscene.com/Article.aspx?id=2641, accessed 10/15/2014.
+Drewnowski A (August 2009). "Defining nutrient density: development and validation of the nutrient rich foods index". J Am Coll Nutr. 28 (Suppl 4): 421S – 6S. doi:10.1080/07315724.2009.10718106. PMID 20368382.
+Glanz K, Hersey J, Cates S, Muth M, Creel D, Nicholls J, Fulgoni V, Zaripheh S (January 2012). "Effect of a Nutrient Rich Foods consumer education program: results from the nutrition advice study". J Acad Nutr Diet. 112 (1): 56–63. doi:10.1016/j.jada.2011.08.031. PMID 22717177.
+McCallum, S. (December 2011). "Addressing Nutrient Density in the Context of the Use of Thickened Liquids in Dysphagia Treatment". Childhood Obesity and Nutrition. 3 (6): 351–360. doi:10.1177/1941406411427442.
+Sizer, F.; Whitney, E. (2018). Nutrition Concepts and Controversies (15th ed.). Cencage Learning. ISBN 9781337906371.
+Kennedy ET (February 2006). "Evidence for nutritional benefits in prolonging wellness". Am J Clin Nutr. 83 (2): 410S – 414S. CiteSeerX 10.1.1.507.841. doi:10.1093/ajcn/83.2.410S. PMID 16470004.
+Rayner M, Scarborough P, Boxer A, Stockley L (December 2005). "Annex II" (PDF). Nutrient profiles: Development of final model. London: Food Standards Agency.
+University of Wisconsin Cooperative Extension. Nutrient Density: Optimize Your Intake!
