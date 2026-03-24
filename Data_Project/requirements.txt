@@ -1,8 +1,0 @@
-confluent-kafka==2.5.0
-psycopg2-binary
-pandas
-streamlit
-plotly
-scikit-learn
-xgboost
-jupyter

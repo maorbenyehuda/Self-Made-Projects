@@ -1,2 +1,0 @@
-docker exec -it kafka kafka-topics --bootstrap-server localhost:9092 --create --topic player-events --partitions 3 --replication-factor 1
-docker exec -it kafka kafka-topics --bootstrap-server localhost:9092 --create --topic match-events --partitions 3 --replication-factor 1
