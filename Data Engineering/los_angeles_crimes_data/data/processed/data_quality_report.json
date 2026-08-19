@@ -1,0 +1,27 @@
+{
+    "raw_row_count": 1004894,
+    "raw_column_count": 32,
+    "duplicate_crime_ids": 0,
+    "missing_crime_ids": 0,
+    "missing_area_name": 0,
+    "missing_crime_type": 0,
+    "missing_occurrence_date": 0,
+    "invalid_occurrence_dates": 0,
+    "invalid_report_dates": 0,
+    "report_date_before_occurrence_date": 0,
+    "invalid_victim_age": 269316,
+    "unexpected_victim_sex": 115,
+    "invalid_occurrence_time": 0,
+    "zero_coordinates": 2240,
+    "invalid_coordinates": 0,
+    "unique_areas": 21,
+    "expected_lapd_areas": 21,
+    "code_description_relationships": {
+        "area": 0,
+        "crime": 0,
+        "premise": 0,
+        "status": 0
+    },
+    "processed_row_count": 1004894,
+    "extraction_timestamp_utc": "2026-08-14T16:21:25.172889+00:00"
+}

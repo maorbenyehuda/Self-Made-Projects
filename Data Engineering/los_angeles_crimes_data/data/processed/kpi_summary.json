@@ -1,0 +1,12 @@
+{
+    "total_crimes": 1004894,
+    "average_victim_age": 39.5,
+    "median_victim_age": 37.0,
+    "most_affected_area": "Central",
+    "most_affected_area_crimes": 69668,
+    "most_common_crime_type": "VEHICLE - STOLEN",
+    "most_common_crime_count": 115184,
+    "most_common_victim_sex": "Male",
+    "first_year": 2020,
+    "last_year": 2024
+}
